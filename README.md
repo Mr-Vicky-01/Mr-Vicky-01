@@ -1,7 +1,7 @@
 # Hello, I'm Pachaiappan 👋
 
 ## 💫 About Me:
-#### I'm Pachaiappan, a passionate data science enthusiast with a keen interest in extracting insights from data to drive decision-making. Currently pursuing my journey into the fascinating world of data science, I'm constantly exploring new techniques, algorithms, and tools to solve real-world problems.
+#### A passionate data science enthusiast with a keen interest in extracting insights from data to drive decision-making. Currently pursuing my journey into the fascinating world of data science, I'm constantly exploring new techniques, algorithms, and tools to solve real-world problems.
 <!-- 📊 Data-driven decision-making advocate.
 - 💻 Constantly learning and experimenting with data science techniques.
 - 🌱 Passionate about machine learning, data visualization, and statistical analysis.
